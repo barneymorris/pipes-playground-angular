@@ -1,3 +1,14 @@
+# Desription from author
+Just learning pipes from Angular. It has examles of 6 pipes:
+1) titlecase pipe
+2) date pipe
+3) currency pipe
+4) height pipe
+5) custom ourselfs pipe
+6) json pipe
+
+you can write something in input and it will automaticly piping it and see in a more user-friendly format
+
 # PipesPlayground
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
